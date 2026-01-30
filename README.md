@@ -14,8 +14,8 @@ systems", 2026, [ArXiv link](https://arxiv.org/...).
 
 ## Usage
 
-`main.m` runs simulations; where you can toggle on the CBF or run a pure funnel controller
-`setup.m` loads the robot dyanmics, designs initial and final configuration and makes corresponding plot
-`makeplots.m` generate the plots and provides quantitative metrics
+- `main.m` runs simulations; where you can toggle on the CBF or run a pure funnel controller
+- `setup.m` loads the robot dyanmics, designs initial and final configuration and makes corresponding plot
+- `makeplots.m` generate the plots and provides quantitative metrics
  
 ![Initial and final configuation of robot](robot.png)
