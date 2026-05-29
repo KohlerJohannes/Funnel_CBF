@@ -1,11 +1,11 @@
-# A model-free approach to control barrier functions for high order systems
+# A model-free approach to control barrier functions for higher-order systems
 
 ## Description
 
 This repository contains the MATLAB code that accompanies the paper 
- "A model-free approach to control barrier functions for high order
-systems", 2026, [ArXiv link](https://arxiv.org/...).
-
+ **A model-free approach to control barrier functions for high order
+systems**, 2026, [ArXiv link](https://arxiv.org/...).
+**Authors:** Lukas Lanza, Johannes Köhler, Dario Dennstädt, Thomas Berger, Karl Worthmann
 
 ## Prerequisites
 
@@ -18,4 +18,4 @@ systems", 2026, [ArXiv link](https://arxiv.org/...).
 - `setup.m` loads the robot dyanmics, designs initial and final configuration and makes corresponding plot
 - `makeplots.m` generate the plots and provides quantitative metrics
  
-![Initial and final configuation of robot](robot.png)
+![Initial and final configuation of robot](kinova_gen3_trim.png)
